@@ -2,8 +2,9 @@ body {
     background-color: black;
     color: white;
     font-family: 'Rubik';
-    font-weight: 400;
+    font-weight: 300;
     margin-bottom: 100px;
+    height: 100%;
 }
 
 h1 {
