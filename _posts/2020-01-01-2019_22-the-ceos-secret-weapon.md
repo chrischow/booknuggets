@@ -2,6 +2,7 @@
 layout: post
 title: "The CEO's Secret Weapon: How Great Leaders and Their Assistants Maximize Productivity and Effectiveness"
 image: "2019-22.jpg"
+tags: [productivity]
 ---
 
 This book is about how to be the best secretary possible. I read it to (1) acquire perspectives on being my own secretary to manage myself better and (2) learn how to serve others better. Here are the key roles to play:

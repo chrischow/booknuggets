@@ -2,6 +2,7 @@
 layout: post
 title: "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs"
 image: "2020-08.jpg"
+tags: [productivity]
 ---
 
 1. OKRs stand for Objectives and Key Results. Objectives are tangible and unambiguous goals, and Key Results are measurable milestones that will advance objectives. They are used by successful companies like Google, Intel, Amazon, and Facebook.

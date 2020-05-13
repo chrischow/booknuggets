@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Art of Data Science: A Guide for Anyone Who Works with Data
-"
+title: "The Art of Data Science: A Guide for Anyone Who Works with Data"
 image: "2019-21.jpg"
+tags: [data]
 ---
 
 The Epicycle of Analysis:

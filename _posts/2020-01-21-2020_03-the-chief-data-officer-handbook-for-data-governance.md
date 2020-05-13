@@ -2,6 +2,7 @@
 layout: post
 title: "The Chief Data Officer Handbook for Data Governance"
 image: "2020-03.jpg"
+tags: [data]
 ---
 
 1. Data governance is the formulation of policy to optimise, secure, and leverage information as an enterprise asset by aligning the objectives of multiple functions.

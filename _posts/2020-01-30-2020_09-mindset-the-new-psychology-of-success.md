@@ -2,6 +2,7 @@
 layout: post
 title: "Mindset: The New Psychology of Success"
 image: "2020-09.jpg"
+tags: [psychology]
 ---
 
 | Characteristic | Fixed Mindset | Growth Mindset |

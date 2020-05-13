@@ -2,6 +2,7 @@
 layout: post
 title: "The Art of Running Faster: Improve Technique, Training, and Performance"
 image: "2020-01.jpg"
+tags: [health]
 ---
 
 1. The six components of fitness are speed, suppleness, strength, stamina, skills, and psychology.

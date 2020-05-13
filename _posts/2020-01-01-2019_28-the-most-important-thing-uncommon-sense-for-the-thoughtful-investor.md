@@ -2,6 +2,7 @@
 layout: post
 title: "The Most Important Thing: Uncommon Sense for the Thoughtful Investor"
 image: "2019-28.jpg"
+tags: [investment]
 ---
 
 1. Paying below value lowers risk and increases return.

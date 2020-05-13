@@ -2,6 +2,7 @@
 layout: post
 title: "Scrum: The Art of Doing Twice the Work in Half the Time"
 image: "2020-06.jpg"
+tags: [productivity]
 ---
 
 Scrum, an approach that:

@@ -2,6 +2,7 @@
 layout: post
 title: "Nudge: Improving Decisions About Health, Wealth, and Happiness"
 image: "2019-25.jpg"
+tags: [psychology]
 ---
 
 1. As a choice architect, you can influence behaviour. You can nudge.
