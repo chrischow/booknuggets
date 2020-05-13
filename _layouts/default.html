@@ -4,7 +4,7 @@
     
     <body>
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top" style='background-color: #0c0c0c;'>
-            <a class="navbar-brand" href="/">
+            <a class="navbar-brand" href="{{ site.baseurl }}">
                 <i class="fas fa-book-open"></i> 
                 BOOKNUGGETS
             </a>
@@ -15,7 +15,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="/">Home</a>
+                        <a class="nav-link" href="{{ site.baseurl }}">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Psychology</a>
@@ -58,6 +58,17 @@
             {{ content }}
         </div>
         
+
+        <div class="row align-items-center" id="footer">
+            <div class="col-12 justify-content-center ">
+                <div class="footertext">
+                    A Microsite by © Christian Chow
+                    <br>
+                    <a class="icon" href="https://github.com/chrischow/booknuggets"><i class="fab fa-github"></i></a>
+                </div>
+            </div>
+        </div>
+
         {% include footer.html %}
 
     </body>

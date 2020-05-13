@@ -16,11 +16,17 @@ title: BookNuggets
 description: >- 
   BookNuggets: A blog on the essential bits of information from books on Psychology, Investment, Data, Health, and other topics.
 
-# the subpath of your site, e.g. /blog
-baseurl: "/booknuggets"
+# baseurl: the subpath of your site, e.g. /blog
+# url: the base hostname & protocol for your site, e.g. http://example.com
 
-# the base hostname & protocol for your site, e.g. http://example.com
+# For deployment:
+baseurl: "/booknuggets"
 url: "https://chrischow.github.io"
+
+# For dev:
+# baseurl: ""
+# url: ""
+
 
 # twitter_username: jekyllrb
 github_username:  chrischow
