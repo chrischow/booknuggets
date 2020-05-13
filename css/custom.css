@@ -153,3 +153,7 @@ th {
     font-weight: 200;
     font-size: 1.0rem;
 }
+
+i.endmark {
+    font-size: 0.5rem;
+}

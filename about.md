@@ -13,4 +13,6 @@ Two important things that I've learnt from my journey so far in becoming a more 
 
 As such, my approach has been to capture the essence of each book and keep bits of information that I resonate most strongly with. To keep track of these nuggets, I intend to record and share them with everyone through this mini blog.
 
-#### Welcome to BookNuggets.
+<br>
+<h4 class='text-center'>Welcome to BookNuggets.</h4>
+<h2 class='text-center'><i class="fas fa-book-open"></i></h2>
