@@ -23,3 +23,4 @@ Finally, check that the site can be run locally:
 ```sh
 bundle exec jekyll serve --watch
 ```
+

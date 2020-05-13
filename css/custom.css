@@ -1,0 +1,137 @@
+body {
+    background-color: #0c0c0c;
+    color: white;
+    font-family: 'Rubik';
+    font-weight: 300;
+    opacity: 0;
+}
+
+h1 {
+    font-family: 'Rubik';
+    font-weight: 500;
+}
+
+.navbar-brand {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 2.0rem;
+}
+
+.navbar-dark .navbar-brand {
+    color: white;
+    transition: color 0.3s;
+}
+
+.navbar-dark .navbar-brand:hover {
+    color: #93dbe9;
+    transition: color 0.3s;
+}
+
+a.nav-link {
+    font-family: 'Poppins';
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,.5);
+    transition: 0.3s;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: white;
+    transition: 0.3s;
+    text-decoration: underline;
+}
+
+a {
+    color: white;
+    transition: 0.3s;
+}
+
+a:hover {
+    color: #93dbe9;
+    text-decoration: none;
+    transition: 0.3s ;
+}
+
+div.spacer {
+    margin-bottom: 70px;
+}
+
+div.snippet {
+    max-height: 600px;
+    padding: 20px;
+}
+
+.snippet-inner {
+    height: 100%;
+    width: 100%;
+}
+
+.snippet-image {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    transition: 0.3s;
+}
+
+.snippet-inner:hover .snippet-image{
+    opacity: 0.3;
+    transition: 0.3s;
+}
+
+.snippet-text {
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 1.5rem;
+    transition: 0.3s;
+    position: absolute;
+    opacity: 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+
+.snippet-inner:hover .snippet-text {
+    opacity: 1;
+}
+
+.snippet-text .a {
+    transition: 0.1s;
+}
+
+.post-img {
+    height: 100%;
+    width: 300px;
+    object-fit:cover;
+}
+
+.back {
+    margin-top: 30px;
+}
+
+.home-container {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+th {
+    font-weight: 500;
+}
+
+table {
+    font-size: 0.9rem;
+}
+
+#loader{
+    background: #0c0c0c;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top:0;
+    left: 0;
+    z-index: 100;
+}

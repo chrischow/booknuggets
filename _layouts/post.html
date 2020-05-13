@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class='container'>
+    <div class="row justify-content-center h-20">
+        <div class="col-10 col-lg-7" align="center">
+            <img class='post-img' src='../../../uploads/{{ page.image }}'>
+        </div>
+    </div>
+    <br>
+    <div class="row justify-content-center">
+        <div class="col-11 col-lg-9">
+            <h2>{{ page.title }}</h2>
+            <p>
+                {{ content }}
+            </p>
+        </div>
+    </div>
+    <div class='back' align='center'>
+        <button type="button" class="btn btn-outline-light" onclick='goBack()'>Back</button>
+    </div>
+</div>

@@ -1,0 +1,23 @@
+---
+layout: default
+title: BookNuggets
+---
+
+<div class='home-container'>
+    <div class="row justify-content-between">
+        {% for post in site.posts %}
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3 snippet">
+            <div class='snippet-inner'>
+                <a href="{{ post.url | prepend: site.baseurl }}">
+                    <img class='snippet-image' src="uploads/{{ post.image }}">
+                    <div class="snippet-text text-center">
+                        <a href="{{ post.url | prepend: site.baseurl }}">
+                            View Summary
+                        </a>
+                    </div>
+                </a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
