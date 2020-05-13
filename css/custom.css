@@ -3,6 +3,7 @@ body {
     color: white;
     font-family: 'Rubik';
     font-weight: 400;
+    margin-bottom: 100px;
 }
 
 h1 {
@@ -131,22 +132,6 @@ th {
     opacity: 0;
 }
 
-#footer {
-    background: black;
-    color: white;
-    border-top: 5px solid black;
-    height: 100px;
-    font-size: 20px;
-}
-
-.footertext {
-    margin: 0 auto;
-    text-align: center;
-    padding: 5px;
-    font-family: Work Sans;
-    font-size: 1.0rem;
-}
-
 .nosummary {
 	position:relative;
 }
@@ -159,4 +144,11 @@ th {
 	border-style: solid;
 	border-width: 0 30px 30px 0;
 	border-color: transparent #bd2130 transparent transparent;
+}
+
+.footer {
+    margin-top: 60px;
+    font-family: Poppins;
+    font-weight: 200;
+    font-size: 1.0rem;
 }

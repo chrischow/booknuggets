@@ -23,7 +23,7 @@ description: >-
 baseurl: "/booknuggets"
 url: "https://chrischow.github.io"
 
-# For dev:
+# For dev only:
 # baseurl: ""
 # url: ""
 
