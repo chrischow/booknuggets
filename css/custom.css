@@ -3,7 +3,6 @@ body {
     color: white;
     font-family: 'Rubik';
     font-weight: 300;
-    opacity: 0;
 }
 
 h1 {
@@ -57,7 +56,7 @@ a:hover {
 }
 
 div.spacer {
-    margin-bottom: 70px;
+    margin-bottom: 100px;
 }
 
 div.snippet {
@@ -111,6 +110,7 @@ div.snippet {
 
 .back {
     margin-top: 30px;
+    margin-bottom: 50px;
 }
 
 .home-container {
@@ -118,20 +118,15 @@ div.snippet {
     margin-right: 20px;
 }
 
-th {
-    font-weight: 500;
-}
-
 table {
     font-size: 0.9rem;
 }
 
-#loader{
-    background: #0c0c0c;
-    height: 100%;
-    width: 100%;
-    position: fixed;
-    top:0;
-    left: 0;
-    z-index: 100;
+th {
+    font-weight: 500;
+}
+
+#main {
+    background-color: #0c0c0c;
+    opacity: 0;
 }
