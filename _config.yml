@@ -11,12 +11,19 @@
 
 title: BookNuggets
 # email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
+
+# this means to ignore newlines until "baseurl:"
+description: >- 
   BookNuggets: A blog on the essential bits of information from books on Psychology, Investment, Data, Health, and other topics.
-baseurl: "/booknuggets" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+# the subpath of your site, e.g. /blog
+baseurl: ""
+
+# the base hostname & protocol for your site, e.g. http://example.com
+url: ""
+
+# twitter_username: jekyllrb
+github_username:  chrischow
 
 # Build settings
 plugins:
