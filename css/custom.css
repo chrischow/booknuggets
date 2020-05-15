@@ -157,3 +157,10 @@ th {
 ol > li > ol {
     list-style-type: lower-alpha;
 }
+
+@media (max-width: 576px) {
+    div.snippet {
+        height: 400px;
+        padding: 10px;
+    }
+}
