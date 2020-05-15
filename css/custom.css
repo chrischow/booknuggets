@@ -153,3 +153,7 @@ th {
     font-weight: 200;
     font-size: 1.0rem;
 }
+
+ol > li > ol {
+    list-style-type: lower-alpha;
+}
