@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "International Relations: A Very Short Introduction"
-image: "2020-11.jpg"
+image: "2020-13.jpg"
 tags: [others]
 ---
 
