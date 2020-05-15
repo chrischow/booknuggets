@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Range: Why Generalists Triumph in a Specialised World"
-image: "2020-13.jpg"
+image: "2020-10.jpg"
 tags: [others]
 ---
 

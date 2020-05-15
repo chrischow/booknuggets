@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Emperor's Soul"
-image: "2020-13.jpg"
+image: "2020-12.jpg"
 tags: [others]
 ---
 
