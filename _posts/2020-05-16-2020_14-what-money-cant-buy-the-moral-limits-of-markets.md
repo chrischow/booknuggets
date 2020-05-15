@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Money Can't Buy: The Moral Limits of Markets"
-image: "2020-13.jpg"
+image: "2020-14.jpg"
 tags: [others]
 ---
 
