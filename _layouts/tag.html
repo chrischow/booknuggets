@@ -7,7 +7,7 @@ layout: default
         {% for post in site.posts %}
             {% assign tag = page.title | downcase %}
             {% if post.tags contains tag %}
-                <div class="col-12 col-sm-6 col-md-4 col-lg-3 snippet">
+                <div class="col-8 col-sm-6 col-md-4 col-lg-3 snippet">
                 <!-- <div class='snippet-inner'>
                         {% if post.excerpt contains 'No summary available.' %}
                             <img class='snippet-image' src="{{ site.baseurl }}/uploads/{{ post.image }}">
