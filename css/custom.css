@@ -166,9 +166,9 @@ ol > li > ol {
 }
 
 blockquote{
-    font-style: normal;
-    font-size: 16px;
+    font-style: italic;
+    font-size: 0.9rem;
     margin-left: 32px;
     border-left: 4px solid #CCC;
-    padding-left: 8px;
+    padding-left: 10px;
 }
