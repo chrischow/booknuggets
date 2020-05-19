@@ -42,8 +42,8 @@ sass:
 comments: true
 
 # Kramdown
+markdown: kramdown
 kramdown:
-    html_to_native: true
     parse_block_html: true
 
 # Exclude from processing.
