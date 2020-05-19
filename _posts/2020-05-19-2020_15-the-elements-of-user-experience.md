@@ -18,7 +18,7 @@ The elements of user experience are:
 | Element | Description |
 | :-----: | :---------- |
 | The Surface Plane | Sensory experience created by the product | How 
-| The Skeleton Plane | <li markdown="0">Information Design: the presentation of information in a way that facilitates understanding</li><li markdown="0">Interface Design: thet arranging of elements to enables users to interact with the functionality of the system</li><li markdown="0">Navigation design: the set of screen elements that allow the user to move through the information architecture</li> |
+| The Skeleton Plane | <li markdown="block">Information Design: the presentation of information in a way that facilitates understanding</li><li markdown="block">Interface Design: thet arranging of elements to enables users to interact with the functionality of the system</li><li markdown="block">Navigation design: the set of screen elements that allow the user to move through the information architecture</li> |
 | The Structure Plane | Creating a structured experience for the user:<br><li>Interaction Design: In terms of performing and completing tasks</li><li>Information Architecture: In terms of conveying information</li> |
 | The Scope Plane | <li>Functionality: the feature set</li><li>Content: required elements</li> |
 | The Strategy Plane | <li>Product Objectives: What do we want to get out of this product?</li><li>User Needs: What do our users want to get out of it?</li> |
