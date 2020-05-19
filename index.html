@@ -4,9 +4,9 @@ title: BookNuggets
 ---
 
 <div class='home-container'>
-    <div class="row justify-content-center">
+    <div class="row justify-content-left">
         {% for post in site.posts %}
-        <div class="col-8 col-sm-6 col-md-4 col-xl-3 snippet">
+        <div class="col-10 col-sm-6 col-md-4 col-xl-3 snippet">
             {% if post.excerpt contains 'No summary available.' %}
 
                 <div class='snippet-inner nosummary'>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Elements of User Experience: User-centered Design for the We and Beyond"
+title: "The Elements of User Experience: User-centered Design for the Web and Beyond"
 image: "2020-15.jpg"
 tags: [others]
 ---
@@ -18,7 +18,7 @@ The elements of user experience are:
 | Element | Description |
 | :-----: | :---------- |
 | The Surface Plane | Sensory experience created by the product | How 
-| The Skeleton Plane | <li>Information Design: the presentation of information in a way that facilitates understanding</li><li>Interface Design: thet arranging of elements to enables users to interact with the functionality of the system</li><li>Navigation design: the set of screen elements that allow the user to move through the information architecture</li> |
+| The Skeleton Plane | **Information Design:** the presentation of information in a way that facilitates understanding</li><li>Interface Design: thet arranging of elements to enables users to interact with the functionality of the system</li><li>Navigation design: the set of screen elements that allow the user to move through the information architecture</li> |
 | The Structure Plane | Creating a structured experience for the user:<br><li>Interaction Design: In terms of performing and completing tasks</li><li>Information Architecture: In terms of conveying information</li> |
 | The Scope Plane | <li>Functionality: the feature set</li><li>Content: required elements</li> |
 | The Strategy Plane | <li>Product Objectives: What do we want to get out of this product?</li><li>User Needs: What do our users want to get out of it?</li> |
