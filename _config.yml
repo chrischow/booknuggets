@@ -42,9 +42,9 @@ sass:
 comments: true
 
 # Kramdown
-markdown: kramdown
-kramdown:
-    parse_block_html: true
+# markdown: kramdown
+# kramdown:
+#     parse_block_html: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
