@@ -160,7 +160,7 @@ ol > li > ol {
 
 @media (max-width: 576px) {
     div.snippet {
-        height: 300px;
+        height: 400px;
         padding: 10px;
     }
 }
