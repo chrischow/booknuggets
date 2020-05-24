@@ -5,11 +5,11 @@ image: "2020-16.jpg"
 tags: [others]
 ---
 
-This book was chock full of insights on negotiation. It was concisely written, so a summary cannot represent all the content in this book. My top 10 takeaways were:
+This book was chock full of insights on negotiation. It was concisely written, so a summary cannot capture all the content in this book. My top 10 takeaways were:
 
 1. Negotiations are about your ability to (1) defend your interests, (2) manage your emotions, and (3) manage the emotions of others.
 2. The Kremlin School of Negotiation follows the following five steps:
-    1. Keep quiet and listen attentatively
+    1. Keep quiet and listen attentively
     2. Ask questions
     3. Reduce your opponent's value
     4. Give your opponent a way out
@@ -20,14 +20,14 @@ This book was chock full of insights on negotiation. It was concisely written, s
     2. Energy spent in preparing and holding negotiations
     3. Money spent on the ongoing negotiations
     4. Emotional toll from negotiations
-5. Compromises are conscious decisions to show goodwill. Concessions are whre you give up things due to lack of negotiation budget, and will result in discomfort or regret.
-6. Build a polygon of interests: this quantifies the value of the different facets of the deal that may interest you. Work out your (1) desired position, (2) red line, and (3) stated position. Regardless, ensure that the area of the polygon balances out and never drops below a chosen level.
+5. Compromises are conscious decisions to show goodwill. Concessions are where you give up things due to lack of negotiation budget, and will result in discomfort or regret.
+6. Build a polygon of interests: this quantifies the value of the different facets of the deal that may interest you. Work out your (1) desired position, (2) red line, and (3) stated position. In negotiations, ensure that the area of the polygon balances out and never drops below a chosen level.
 7. In tough negotiations:
     1. Make eye contact
     2. Show indifference
-    3. Saying no firmly and quickly when the situation demands it
+    3. Say no firmly and quickly when the situation demands it
     4. Play the host
-    5. Find strength in cour cause
+    5. Find strength in your cause
 8. Beware (and exploit) the factors for psychological influence:
     1. Reciprocity: Repay the treatment we receive
     2. Consistency: People strive to be consistent in their words
