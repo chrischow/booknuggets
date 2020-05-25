@@ -35,6 +35,14 @@ a.nav-link {
     letter-spacing: 0.1rem;
 }
 
+a.dropdown-item {
+    font-family: 'Poppins';
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    color: white;
+}
+
 .navbar-dark .navbar-nav .nav-link {
     color: rgba(255,255,255,.5);
     transition: 0.3s;
@@ -43,7 +51,7 @@ a.nav-link {
 .navbar-dark .navbar-nav .nav-link:hover {
     color: white;
     transition: 0.3s;
-    text-decoration: underline;
+    /* text-decoration: underline; */
 }
 
 a {
@@ -171,4 +179,21 @@ blockquote{
     margin-left: 32px;
     border-left: 4px solid #CCC;
     padding-left: 10px;
+}
+
+.dropdown-menu {
+    background: rgb(0, 0, 0, 0.7);
+    color: rgba(255,255,255,.5);
+}
+
+.dropdown-item {
+    color: rgba(255,255,255,.5);
+    transition: 0.3s;
+}
+
+.dropdown-item:hover {
+    color: white;
+    transition: 0.3s;
+    text-decoration: underline;
+    background: rgb(0, 0, 0, 0.7);
 }
