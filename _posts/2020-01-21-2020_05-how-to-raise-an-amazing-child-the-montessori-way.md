@@ -2,7 +2,7 @@
 layout: post
 title: "How to Raise an Amazing Child The Montessori Way"
 image: "2020-05.jpg"
-tags: [others]
+tags: [family]
 ---
 
 1. Intelligence is not rare among human beings. It is found in children at birth. With the right stimulation, the development of reasoning and problem-solving skills can be nurtured in young children.

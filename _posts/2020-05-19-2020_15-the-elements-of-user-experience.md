@@ -2,7 +2,7 @@
 layout: post
 title: "The Elements of User Experience: User-centered Design for the Web and Beyond"
 image: "2020-15.jpg"
-tags: [others]
+tags: [design]
 ---
 
 User experience is the the experience the product creates for the people who use it in the real world. It is beyond function and aesthetics: it is about ensuring these work in the context of what the user is trying to accomplish, and the context of the rest of the product.

@@ -2,7 +2,7 @@
 layout: post
 title: "The Art of Data Science: A Guide for Anyone Who Works with Data"
 image: "2019-21.jpg"
-tags: [data]
+tags: [tech]
 ---
 
 The Epicycle of Analysis:

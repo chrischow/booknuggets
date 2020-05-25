@@ -2,7 +2,7 @@
 layout: post
 title: "What Money Can't Buy: The Moral Limits of Markets"
 image: "2020-14.jpg"
-tags: [others]
+tags: [economics]
 ---
 
 Markets are not mere mechanisms. They embody norms - certain ways of valuing the goods being exchanged. Yet, markets have infiltrated aspects of life traditionally governed by non-market norms (e.g. culture, morals), like:

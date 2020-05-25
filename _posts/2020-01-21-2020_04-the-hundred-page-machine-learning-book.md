@@ -2,7 +2,7 @@
 layout: post
 title: "The Hundred-Page Machine Learning Book"
 image: "2020-04.jpg"
-tags: [data]
+tags: [tech]
 ---
 
 Not so much a summary, but some thoughts:

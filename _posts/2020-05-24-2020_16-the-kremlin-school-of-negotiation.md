@@ -2,7 +2,7 @@
 layout: post
 title: "The Kremlin School of Negotiation"
 image: "2020-16.jpg"
-tags: [others]
+tags: [business]
 ---
 
 This book was chock full of insights on negotiation. It was concisely written, so a summary cannot capture all the content in this book. My top 10 takeaways were:
