@@ -29,30 +29,30 @@ A short but rich text on the history of civilisation. I didn't summarise every c
 
 | Instincts: | Action (Positive) | Sleep (Negative) |
 | :--------: | :---------------- | :--------------- |
-| **Habits:** | {::nomarkdown}<li>Play</li><li>Work</li><li>Curiosity</li><li>Manipulation</li><li>Thought</li><li>Innovation</li><li>Art</li> | {::nomarkdown}<li>Rest</li><li>Sloth</li><li>Indifference</li><li>Hesitation</li><li>Dreaming</li><li>Imitation</li><li>Disorder</li> |
-| **Feelings:** | {::nomarkdown}<li>Buoyancy</li><li>Energy</li><li>Eagerness</li><li>Wonder</li><li>Absorption</li><li>Resolution</li><li>Aesthetic Feeling</li> | {::nomarkdown}<li>Fatigue</li><li>Inertia</li><li>Boredom</li><li>Doubt</li><li>Vacuity</li><li>Acceptance</li><li>Confusion</li> |
+| **Habits:** | {::nomarkdown}<li>Play</li><li>Work</li><li>Curiosity</li><li>Manipulation</li><li>Thought</li><li>Innovation</li><li>Art</li>{:/} | {::nomarkdown}<li>Rest</li><li>Sloth</li><li>Indifference</li><li>Hesitation</li><li>Dreaming</li><li>Imitation</li><li>Disorder</li>{:/} |
+| **Feelings:** | {::nomarkdown}<li>Buoyancy</li><li>Energy</li><li>Eagerness</li><li>Wonder</li><li>Absorption</li><li>Resolution</li><li>Aesthetic Feeling</li>{:/} | {::nomarkdown}<li>Fatigue</li><li>Inertia</li><li>Boredom</li><li>Doubt</li><li>Vacuity</li><li>Acceptance</li><li>Confusion</li>{:/} |
 
 | Instincts: | Fight (Positive) | Flight (Negative) |
 | :--------: | :--------------- | :---------------- |
-| **Habits:** | {::nomarkdown}<li>Approach</li><li>Competition</li><li>Pugnacity</li><li>Mastery</li> | {::nomarkdown}<li>Retreat</li><li>Cooperation</li><li>Timidity</li><li>Submission</li> |
-| **Feelings:** | {::nomarkdown}<li>Courage</li><li>Rivalry</li><li>Anger</li><li>Pride</li> | {::nomarkdown}<li>Anxiety</li><li>Friendliness</li><li>Fear</li><li>Humility</li> |
+| **Habits:** | {::nomarkdown}<li>Approach</li><li>Competition</li><li>Pugnacity</li><li>Mastery</li>{:/} | {::nomarkdown}<li>Retreat</li><li>Cooperation</li><li>Timidity</li><li>Submission</li>{:/} |
+| **Feelings:** | {::nomarkdown}<li>Courage</li><li>Rivalry</li><li>Anger</li><li>Pride</li>{:/} | {::nomarkdown}<li>Anxiety</li><li>Friendliness</li><li>Fear</li><li>Humility</li>{:/} |
 
 | Instincts: | Acquisition (Positive) | Avoidance (Negative) |
 | :--------: | :--------------------- | :------------------- |
-| **Habits:** | {::markdown} <li>Eating</li><li>Hoarding</li><li>Property</li> | {::markdown}<li>Rejection</li><li>Spending</li><li>Poverty</li> |
-| **Feelings:** | {::markdown}<li>Hunger</li><li>Greed</li><li>Possessiveness</li> | {::markdown}<li>Disgust</li><li>Prodigality</li><li>Insecurity</li> |
+| **Habits:** | {::nomarkdown}<li>Eating</li><li>Hoarding</li><li>Property</li>{:/} | {::nomarkdown}<li>Rejection</li><li>Spending</li><li>Poverty</li>{:/} |
+| **Feelings:** | {::nomarkdown}<li>Hunger</li><li>Greed</li><li>Possessiveness</li>{:/} | {::nomarkdown}<li>Disgust</li><li>Prodigality</li><li>Insecurity</li>{:/} |
 
 | Instincts: | Association (Positive) | Privacy (Negative) |
 | :--------: | :--------------------- | :----------------- |
-| **Habits:** | {::markdown}<li>Communication</li><li>Seeking approval</li><li>Generosity</li> | {::markdown}<li>Solitude</li><li>Fearing disapproval</li><li>Selfishness</li> |
-| **Feelings:** | {::markdown}<li>Sociability</li><li>Vanity</li><li>Kindliness</li> | {::markdown}<li>Secretiveness</li><li>Shyness</li><li>Hostility</li> |
+| **Habits:** | {::nomarkdown}<li>Communication</li><li>Seeking approval</li><li>Generosity</li>{:/} | {::nomarkdown}<li>Solitude</li><li>Fearing disapproval</li><li>Selfishness</li>{:/} |
+| **Feelings:** | {::nomarkdown}<li>Sociability</li><li>Vanity</li><li>Kindliness</li>{:/} | {::nomarkdown}<li>Secretiveness</li><li>Shyness</li><li>Hostility</li>{:/} |
 
 | Instincts: | Mating (Positive) | Refusal (Negative) |
 | :--------: | :---------------- | :----------------- |
-| **Habits:** | {::markdown}<li>Sexual activity</li><li>Courtship</li> | {::markdown}<li>Sexual perversion</li><li>Blushing</li> |
-| **Feelings:** | {::markdown}<li>Sexual imagination</li><li>Sexual love</li> | {::markdown}<li>Sexual neurosis</li><li>Modesty</li> |
+| **Habits:** | {::nomarkdown}<li>Sexual activity</li><li>Courtship</li>{:/} | {::nomarkdown}<li>Sexual perversion</li><li>Blushing</li>{:/} |
+| **Feelings:** | {::nomarkdown}<li>Sexual imagination</li><li>Sexual love</li>{:/} | {::nomarkdown}<li>Sexual neurosis</li><li>Modesty</li>{:/} |
 
 | Instincts: | Parental Care (Positive) | Filial Dependence (Negative) |
 | :--------: | :----------------------- | :--------------------------- |
-| **Habits:** | {::markdown}<li>Homemaking</li> | {::markdown}<li>Filial rebellion</li> |
-| **Feelings:** | {::markdown}<li>Parental love</li> | {::markdown}<li>Filial resentment</li> |
+| **Habits:** | {::nomarkdown}<li>Homemaking</li>{:/} | {::nomarkdown}<li>Filial rebellion</li>{:/} |
+| **Feelings:** | {::nomarkdown}<li>Parental love</li> | {::nomarkdown}<li>Filial resentment</li>{:/} |
