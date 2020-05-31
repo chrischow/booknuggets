@@ -55,4 +55,4 @@ A short but rich text on the history of civilisation. I didn't summarise every c
 | Instincts: | Parental Care (Positive) | Filial Dependence (Negative) |
 | :--------: | :----------------------- | :--------------------------- |
 | **Habits:** | {::nomarkdown}<li>Homemaking</li>{:/} | {::nomarkdown}<li>Filial rebellion</li>{:/} |
-| **Feelings:** | {::nomarkdown}<li>Parental love</li> | {::nomarkdown}<li>Filial resentment</li>{:/} |
+| **Feelings:** | {::nomarkdown}<li>Parental love</li>{:/} | {::nomarkdown}<li>Filial resentment</li>{:/} |
