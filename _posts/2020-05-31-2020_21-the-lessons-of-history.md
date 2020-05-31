@@ -5,6 +5,8 @@ image: "2020-21.jpg"
 tags: [others]
 ---
 
+A short but rich text on the history of civilisation. I didn't summarise every chapter, just the ones that stood out:
+
 1. **Geology:** Geography sustains yet limits us. But with technology and initiative, we can overcome natural obstacles.
 2. **Biology:** Life...
     1. Is Competition: It is in our genes to chase and fight and kill to survive.
@@ -15,13 +17,15 @@ tags: [others]
 5. **Morals:** Moral codes have changed over time, from the hunting era to the agricultural era, to the industrial era. They take time to forge into social order and normality.
 6. **Religion:** History suggests that the universe has no prejudice in favour of or against any religion. Science and historical knowledge have impaired religious belief, but religion has many lives and a habit of resurrection. Religion and puritanism prevail in periods when morals must bear the burden of maintaining social order. Scepticism and paganism progress as the rising power of law and government permit the decline of morality without endangering stability.
 7. **Economics:** The concentration of wealth is natural and inevitable because people are judged by their ability to produce, which differs from person to person. It is periodically alleviated by violent or peaceful partial redistribution.
-8. **On War:** A world order will not come by a gentleman's agreement, but through so decisive a victory by one of the great powers that it will be able to tdictate and enforce international law.
+8. **On War:** A world order will not come by a gentleman's agreement, but through so decisive a victory by one of the great powers that it will be able to dictate and enforce international law.
 9. **Growth and Decay:** History repeats itself, but only in outline and in the large:
     1. New states rise, old states subside
     2. New civilisations start with pasture and agriculture, expand into commerce and industry, and luxuriate with finance
     3. New theories, inventions, discoveries, and errors will agitate intellectual currents
-    4. New generation will rebel against the old and pass from rebellion to conformity and reaction
+    4. New generations will rebel against the old and pass from rebellion to conformity and reaction
     5. Experiments in morals will loosen tradition and frighten its beneficiaries
+
+### Human Instincts
 
 | Instincts: | Action (Positive) | Sleep (Negative) |
 | :--------: | :---------------- | :--------------- |
