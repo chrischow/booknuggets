@@ -5,7 +5,7 @@ image: "2020-22.jpg"
 tags: [others]
 ---
 
-Contrary to popular belief, computers do not grind through complex calculation to get the perfect answers. The most effective algorithms do what makes the most sense in the least amount of time: they make assumptions, show a bias toward simpler solutions, trade off the costs of error against the costs of delay, and take chances. They implement the tradeoffs that we (humans) have to make between time, capacity, and certainty.
+Contrary to popular belief, computers do not always grind through complex calculation to get the perfect answers. The most effective algorithms do what makes the most sense in the least amount of time: they make assumptions, show a bias toward simpler solutions, trade off the costs of error against the costs of delay, and take chances. They implement the tradeoffs that we (humans) have to make between time, capacity, and certainty.
 
 This book examines several problems from a computer science lens:
 
