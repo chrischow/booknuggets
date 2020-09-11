@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Raising Your Spirited Child"
+title: "Raising Your Spirited Child: A Guide for Parents Whose Child is More Intense, Sensitive, Perceptive, Persistent, and Energetic"
 image: "2020-24.jpg"
 tags: [family]
 ---
